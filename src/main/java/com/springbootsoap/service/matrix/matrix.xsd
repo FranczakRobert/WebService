@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           targetNamespace="http://mojaprzestrzen.pl/matrix"
-           xmlns:tns="http://mojaprzestrzen.pl/sample">
+           targetNamespace="http://mojaprzestrzen.pl/matrix">
 
     <!--  Jaka metoda będzie wystawiana  -->
     <xs:element name="saveMatrix">

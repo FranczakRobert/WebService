@@ -25,5 +25,8 @@ public class WsEndpoint {
        saveMatrix.getMatrixID();
        System.out.println(saveMatrix.getArray());
 
+
+
+
     }
 }
